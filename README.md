@@ -6,9 +6,8 @@
 
  📫 In these days I am developing a JavaFX Desktop Application which users can edit images.
 
-
+- uzunpinarkaan@gmail.com
 - https://www.kaanuzunpinar.com/
 - https://twitter.com/kaanuzunpinar
 - https://www.linkedin.com/in/kaanuzunpinar/
- 
- 
+
