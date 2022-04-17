@@ -5,7 +5,6 @@
  📫 Currently I am studying at TOBB ETU Department of Computer Engineering. Also I am working at Jotform as software developer intern
 
 - uzunpinarkaan@gmail.com
-- https://www.kaanuzunpinar.com/
 - https://twitter.com/kaanuzunpinar
 - https://www.linkedin.com/in/kaanuzunpinar/
 
