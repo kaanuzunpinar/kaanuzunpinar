@@ -7,4 +7,5 @@
 - uzunpinarkaan@gmail.com
 - https://twitter.com/kaanuzunpinar
 - https://www.linkedin.com/in/kaanuzunpinar/
+- https://kaanuzunpinar.com
 
