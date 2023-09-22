@@ -2,7 +2,7 @@
 
  👋 Hi, I’m @kaanuzunpinar I love coding, learning new technologies and developing technological solutions.
 
- 📫 Currently I am studying at TOBB ETU Department of Computer Engineering. Also previously I have worked at Jotform and Havelsan as software developer intern 
+ 📫 Currently I am working as Frontend Developer. I have graduated from TOBB University.
 
 - uzunpinarkaan@gmail.com
 - https://twitter.com/kaanuzunpinar
